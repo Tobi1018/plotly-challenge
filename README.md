@@ -19,5 +19,6 @@ Using my knowledge of JavaScript, Plotly, and D3.js, created a bubble chart that
 
 
 ## Deliverable 3: Create a Gauge Chart
+Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 ![deliver3](https://user-images.githubusercontent.com/58860105/140674318-f1843af4-fe4f-411e-8f3f-fe1672ef4721.PNG)
