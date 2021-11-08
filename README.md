@@ -3,7 +3,7 @@ Belly-Button Biodiversity
 
 
 ## Deliverable 1: Create a Horizontal Bar
-
+Using my knowledge of JavaScript, Plotly, and D3.js, created a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
 
 ![deliv1](https://user-images.githubusercontent.com/58860105/140664767-6ecaa1f0-1170-4d31-bbfd-1a567dfabbb2.PNG)
 
