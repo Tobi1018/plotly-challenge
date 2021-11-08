@@ -11,6 +11,7 @@ Using my knowledge of JavaScript, Plotly, and D3.js, created a horizontal bar ch
 
 
 ## Deliverable 2: Create a Bubble Chart
+Using my knowledge of JavaScript, Plotly, and D3.js, created a bubble chart that displays the ID when selected from the dropdown menu webpage.
 
 ![deliver2](https://user-images.githubusercontent.com/58860105/140674580-633f9980-f07a-429c-9988-65e40a4ce83c.PNG)
 
