@@ -12,6 +12,7 @@ Belly-Button Biodiversity
 
 ## Deliverable 2: Create a Bubble Chart
 
+![deliver2](https://user-images.githubusercontent.com/58860105/140674580-633f9980-f07a-429c-9988-65e40a4ce83c.PNG)
 
 
 
