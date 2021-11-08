@@ -30,4 +30,4 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that
 ![deliver3](https://user-images.githubusercontent.com/58860105/140674318-f1843af4-fe4f-411e-8f3f-fe1672ef4721.PNG)
 
 
-Wedpage Deploy; [https://tobi1018.github.io/plotly-challenge](file:///C:/Users/ooduntan/Desktop/Data%20Analyst%20Folder/plotly-challenge/data-12-4-3-resources/index.html)
+Wedpage Deploy; [https://tobi1018.github.io/plotly-challenge]
