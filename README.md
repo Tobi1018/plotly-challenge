@@ -17,3 +17,5 @@ Belly-Button Biodiversity
 
 
 ## Deliverable 3: Create a Gauge Chart
+
+![deliver3](https://user-images.githubusercontent.com/58860105/140674318-f1843af4-fe4f-411e-8f3f-fe1672ef4721.PNG)
